@@ -10,7 +10,7 @@
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "-ID:/Robotics workout/MPC/eigen-3.4.0/",
+                "-ID:/Robotics workout/Git Repository/MPC/eigen-3.4.0/",
             ],
             "options": {
                 "cwd": "${fileDirname}"
